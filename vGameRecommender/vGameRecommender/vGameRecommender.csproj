@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mommosoft.ExpertSystem">
-      <HintPath>..\..\lib\Mommosoft.ExpertSystem.dll</HintPath>
+      <HintPath>lib\Mommosoft.ExpertSystem.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
